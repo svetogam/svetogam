@@ -2,7 +2,7 @@
 
 * [Super Practica](https://codeberg.org/superpractica/superpractica) - A game designed to optimize learning mathematics.
 
-## My Godot addons
+## My [Godot](https://github.com/godotengine/godot) addons
 
 * [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Static class to find objects through the scene tree like localized singletons.
 * [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Static class to find objects to dynamically manage descendant nodes.
