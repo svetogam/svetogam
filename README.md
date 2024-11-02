@@ -1,10 +1,10 @@
 ## Stuff I make
 
-### A big game
+### A big Godot game
 
 * [Super Practica](https://codeberg.org/superpractica/superpractica) - A game designed to optimize building expertise in mathematics.
 
-### My [Godot](https://github.com/godotengine/godot) addons
+### My Godot addons
 
 * [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Static class to find objects through the scene tree like localized singletons.
 * [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Static class to dynamically manage descendant nodes.
